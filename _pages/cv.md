@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, University of Wisconsin, Madison, 2020
+* Ph.D Student in Computer Science and Engineering, University of Notre Dame, 2026 (expected)
 
 Work experience
 ======
