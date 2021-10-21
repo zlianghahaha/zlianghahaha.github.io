@@ -13,6 +13,12 @@ I received my Bachelor's degree from [University of Wisconsin, Madison](https://
 # Research
 My research interests mainly focus on **Quantum Machine Learning** and **Quanqum Compiler**.
 
+# Education
+
+* University of Notre Dame. PhD student in Computer science and Engineering. 2021 - 2026 (Expected)
+* University of Wisconsin, Madison. B.S. in Electrical Engineering. 2018 - 2020
+* Auburn University. Computer Engineering transfer to UW-Madison. 2016-2018
+
 # Publications
 * **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Jinjun Xiong, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Invited by the 40th International Conference On
 Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
