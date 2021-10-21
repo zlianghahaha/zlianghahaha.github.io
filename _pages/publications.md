@@ -4,16 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 ## 2021
 * <b>Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow</b>. <br>
 <b>Zhiding Liang</b>, Zhepeng Wang, Junhuan Yang, Lei Yang, Jinjun Xiong, Yiyu Shi, Weiwen Jiang. <i>in Proc. of IEEE/ACM International Conference on Computer-Aided Design (**ICCAD 2021**)(Invited Paper)</i>.<br>
