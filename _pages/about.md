@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Department of Computer science and Engineering](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu//), under the supervision of Professor. [Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at University of Notre Dame and Assistant Professor. [Weiwen Jiang](https://jqub.github.io/) at George Mason University. <br> 
-I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I was worked with Professor. [Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
+I am currently a Ph.D. student in the [Department of Computer science and Engineering](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu//), under the supervision of [Professor. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at University of Notre Dame and Assistant [Professor. Weiwen Jiang](https://jqub.github.io/) at George Mason University. <br> 
+I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I was worked with [Professor. Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
 
 # Research
 My research interests mainly focus on **Quantum Machine Learning** and **Quantum Compiler**.
