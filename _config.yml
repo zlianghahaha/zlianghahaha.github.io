@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Zhiding Liang"
-  avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "PhD student in Computer science and Engineering. University of NOtre Dame, IN"
+  avatar           : "liang.png" # "jianli.jpg" #
+  bio              : "PhD student in Computer science and Engineering. University of Notre Dame, IN"
   location         : "South Bend, US"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=bsLRScYAAAAJ&hl=en&oi=ao"
