@@ -6,10 +6,10 @@ author_profile: true
 ---
 ## 2021
 * <b>Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow</b>. <br>
-<b>Zhiding Liang</b>, Zhepeng Wang, Junhuan Yang, Lei Yang, Jinjun Xiong, Yiyu Shi, Weiwen Jiang. <i>in Proc. of IEEE/ACM International Conference on Computer-Aided Design (**ICCAD 2021**)(Invited Paper)</i>.<br>
+<b>Zhiding Liang</b>, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang. <i>in Proc. of IEEE/ACM International Conference on Computer-Aided Design (**ICCAD 2021**)</i>.<br>
 [[arXiv]](https://arxiv.org/pdf/2109.03430.pdf)
 * <b>Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs</b>. <br>
-Zhepeng Wang, <b>Zhiding Liang</b>, Shanglin Zhou, Caiwen Ding, Jinjun Xiong, Yiyu Shi, Weiwen Jiang. <i>in Proc. of IEEE/ACM International Conference on Computer-Aided Design (**ICCAD 2021**)(Invited Paper)</i>.<br>
+Zhepeng Wang, <b>Zhiding Liang</b>, Shanglin Zhou, Caiwen Ding, Yiyu Shi, Weiwen Jiang. <i>in Proc. of IEEE/ACM International Conference on Computer-Aided Design (**ICCAD 2021**)</i>.<br>
 [[arXiv]](https://arxiv.org/pdf/2109.03806.pdf)
 
 ## 2020
