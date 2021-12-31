@@ -26,13 +26,14 @@ My research interests mainly focus on **Quantum Machine Learning** and **Quantum
 * **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
 
 # Publications
-* **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Invited by the 40th International Conference On
+* **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Published in the Proceedings of 40th International Conference On
 Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
-* Zhepeng Wang, **Zhiding Liang**, Shanglin Zhou, Caiwen Ding, Yiyu Shi, Weiwen Jiang, “Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs". Invited by the 40th International Conference On
+* Zhepeng Wang, **Zhiding Liang**, Shanglin Zhou, Caiwen Ding, Yiyu Shi, Weiwen Jiang, “Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs". Published in the Proceedings of the 40th International Conference On
 Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 * **Zhiding Liang**, “A comprehensive understanding of conductive mechanism of RRAM: from electron conduction to ionic dynamics". Published in the 2nd International Conference on Electrical Engineering and Control Technologies ([CEECT 2020](https://www.ceect.org/))
 
 # Honors and Awards
+* 2022 DAC Young Fellow. <br> DAC. 2021
 * [Certificate of Quantum Excellence](https://jqub.github.io/2021/08/27/news_21_08_27-IBMQ/index.html). <br>IBM. 2021.
 * Dean's List. <br> University of Wisconsin, Madison. 2018fall - 2020spring.
 * Dean's List. <br> Auburn University. 2017spring - 2018spring.
