@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the [Department of Computer science and Engine
 I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I was worked with [Professor. Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
 
 # Research
-My research interests mainly focus on **Quantum Machine Learning** and **Quantum Compiler**.
+My research interests recently focus on **Quantum Machine Learning** and **Quantum Optimal Control**.
 
 # Education
 
