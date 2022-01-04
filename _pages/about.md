@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the [Department of Computer science and Engine
 I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I was worked with [Professor. Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
 
 # Research
-My research interests recently focus on **Quantum Machine Learning** and **Quantum Optimal Control**.
+My research interests recently focus on **Quantum Machine Learning** and **Quantum Optimal Control**. My research aim to find methods to solve the noise problem in NISQ era quantum computer and reduce the compliation overhead in quantum computer.
 
 # Education
 
@@ -34,10 +34,14 @@ Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 
 # Honors and Awards
 * 2022 DAC Young Fellow. <br> DAC. 2021
-* [Certificate of Quantum Excellence](https://jqub.github.io/2021/08/27/news_21_08_27-IBMQ/index.html). <br>IBM. 2021.
+* [Certificate of Quantum Excellence (100/100)](https://jqub.github.io/2021/08/27/news_21_08_27-IBMQ/index.html). <br>IBM. 2021.
 * Dean's List. <br> University of Wisconsin, Madison. 2018fall - 2020spring.
 * Dean's List. <br> Auburn University. 2017spring - 2018spring.
 
+# Selected Talks
+* A Quantum Machine Learning Co-Design Framework Towards Quantum Advantage, International Conference On
+Computer-Aided Design (ICCAD), 2021
+* Tutorial of QuantumFlow, Embedded Systems Week (ESWEEK), 2021
 
 # Activity and Service
 * Teaching Assistant. System Programming. University of Notre Dame. 2021fall
