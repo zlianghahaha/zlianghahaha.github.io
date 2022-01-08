@@ -48,4 +48,4 @@ Computer-Aided Design (ICCAD), 2021
 <!---Experience--->
 
 # Supervised Student
-* Jiakun Wang, undergrad at CMU.
+* Jiakun Wang, undergrad at CMU. 2022 Spring.
