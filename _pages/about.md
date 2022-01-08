@@ -46,3 +46,6 @@ Computer-Aided Design (ICCAD), 2021
 # Activity and Service
 * Teaching Assistant. System Programming. University of Notre Dame. 2021fall
 <!---Experience--->
+
+# Supervised Student
+* Jiakun Wang, undergrad at CMU.
