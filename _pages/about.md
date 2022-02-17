@@ -21,8 +21,10 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # News
 
+* Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionabilty of support quantum pulse, thanks Hanrui!     Feb.2022
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers!    Nov.2021         
 * Two papers will be published on **ICCAD**, Cheers!    Sep.2021
+* Become a contributor to [QFNN](https://github.com/JQub/qfnn), design the QF-RobustNN to support Quantumflow, thanks Zhirui!     Sep.2021
 * **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
 
 # Publications
