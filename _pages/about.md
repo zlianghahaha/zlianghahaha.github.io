@@ -21,6 +21,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # News
 
+* The first paper that claim a new paradiam Variational Quantum Pulse (VQP) for machine learning tasks is available on arxiv! Thanks Hanrui, Jinglei and all collaborators. 
 * Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionabilty of support quantum pulse, thanks Hanrui!     Feb.2022
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers!    Nov.2021         
 * Two papers will be published on **ICCAD**, Cheers!    Sep.2021
@@ -28,6 +29,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 * **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
 
 # Publications
+* **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Arxiv now available. ([arxiv](https://arxiv.org/abs/2203.17267)). 
 * **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Published in the Proceedings of 40th International Conference On
 Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 * Zhepeng Wang, **Zhiding Liang**, Shanglin Zhou, Caiwen Ding, Yiyu Shi, Weiwen Jiang, “Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs". Published in the Proceedings of the 40th International Conference On
@@ -35,7 +37,7 @@ Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 * **Zhiding Liang**, “A comprehensive understanding of conductive mechanism of RRAM: from electron conduction to ionic dynamics". Published in the 2nd International Conference on Electrical Engineering and Control Technologies ([CEECT 2020](https://www.ceect.org/))
 
 # Honors and Awards
-* 2022 DAC Young Fellow. <br> DAC. 2021
+* 2021 DAC Young Fellow. <br> DAC. 2021
 * [Certificate of Quantum Excellence (100/100)](https://jqub.github.io/2021/08/27/news_21_08_27-IBMQ/index.html). <br>IBM. 2021.
 * Dean's List. <br> University of Wisconsin, Madison. 2018fall - 2020spring.
 * Dean's List. <br> Auburn University. 2017spring - 2018spring.
@@ -46,7 +48,8 @@ Computer-Aided Design (ICCAD), 2021
 * Tutorial of QuantumFlow, Embedded Systems Week (ESWEEK), 2021
 
 # Activity and Service
-* Teaching Assistant. System Programming. University of Notre Dame. 2021fall
+* Teaching Assistant. Operating System. University of Notre Dame (Silicon Valley Campus). 2022Spring
+* Teaching Assistant. System Programming. University of Notre Dame. 2021Fall
 <!---Experience--->
 
 # Supervised Student
