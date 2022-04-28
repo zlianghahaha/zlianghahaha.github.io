@@ -21,8 +21,8 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # News
 
-* **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the **500$** travel grant from DAC!     April.2021
-* The first paper that claim a new paradiam Variational Quantum Pulse (VQP) for machine learning tasks is available on arxiv! Thanks Hanrui, Jinglei and all collaborators. 
+* **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the **500$** travel grant from DAC!     April.2022
+* The first paper that claim a new paradiam Variational Quantum Pulse (VQP) for machine learning tasks is available on arxiv! Thanks Hanrui, Jinglei and all collaborators.   April.2022
 * Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionabilty of support quantum pulse, thanks Hanrui!     Feb.2022
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers!    Nov.2021         
 * Two papers will be published on **ICCAD**, Cheers!    Sep.2021
