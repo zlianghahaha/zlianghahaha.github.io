@@ -6,9 +6,13 @@ author_profile: true
 ---
 My research aims to reduce the noise and compliation overhead problem in NISQ era quantum computer and can be divided to two aspects: Pulse based approach and Gate based approach. And I am also working on extend quantum machine learning into applications in different areas.
 
-I'm grateful for having collaborated with these inspiring people, who guide and help me alot in my research path: [Yongshan Ding (Assistant Professor at Yale)](https://www.yongshanding.com/), [Hanrui Wang (PhD Student at MIT)](https://hanruiwang.me/), [Jinglei Cheng (PhD Candidate at USC)](https://www.linkedin.com/in/jinglei-cheng-b7235a12b/), [Zhepeng Wang (PhD student at GMU)](https://jqub.github.io/zhepeng/), [Zhirui Hu (Incoming PhD Student at GMU)](https://github.com/happybored), [Zhongrui Wang (Assistant Professor at HKU)](https://www.eee.hku.hk/~zrwang/).
+I'm grateful for having collaborated with these inspiring people, who guide and help me alot in my research path: [Yongshan Ding (Assistant Professor at Yale)](https://www.yongshanding.com/), [Hanrui Wang (PhD Candidate at MIT)](https://hanruiwang.me/), [Jinglei Cheng (PhD student at USC)](https://www.linkedin.com/in/jinglei-cheng-b7235a12b/), [Zhepeng Wang (PhD student at GMU)](https://jqub.github.io/zhepeng/), [Zhirui Hu (Incoming PhD Student at GMU)](https://github.com/happybored), [Zhongrui Wang (Assistant Professor at HKU)](https://www.eee.hku.hk/~zrwang/).
 
 # Publication
+## 2022
+* <b>Variational Quantum Pulse Learning</b>. <br>
+<b>Zhiding Liang^</b>, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi.
+[[arXiv]](https://arxiv.org/pdf/2203.17267.pdf)
 ## 2021
 * <b>Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow</b>. <br>
 <b>Zhiding Liang</b>, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang. <i>in Proc. of IEEE/ACM International Conference on Computer-Aided Design (**ICCAD 2021**)</i>.<br>
