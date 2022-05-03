@@ -56,4 +56,8 @@ Computer-Aided Design (ICCAD), 2021
 # Supervised Student
 * Jiakun Wang, undergrad at CMU. 2022 Spring.
 
+# Collaborators
+ <img src="../images/mit.png" height="60" width="150"><img src="../images/usc.png" height="60" width="150">
+
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8KGfUL_pkV9DNQfD3UyZcaQHl9ii8VeCMgJUzJtERlg&cl=ffffff&w=a"></script>
