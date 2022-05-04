@@ -11,12 +11,18 @@ I'm grateful for having collaborated with these inspiring people, who guide and 
 # Publication
 ## 2022
 * <b>Variational Quantum Pulse Learning</b>. <br>
-<b>Zhiding Liang^</b>, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi.
+<b>Zhiding Liang^</b>, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi. <i>Submitted to IEEE International Conference on Quantum Computing and Engineering (**QCE 2022**)</i>.<br>
 [[arXiv]](https://arxiv.org/pdf/2203.17267.pdf)
+<img src="../images/VQP.png" height="260" width="650">
+
+* <b>On the Universal Approximability and Complexity Bounds of Deep Learning in Hybrid Quantum-Classical Computing</b>. <br>
+Weiwen Jiang, <b>Zhiding Liang^</b>, Yukun Ding, Zhepeng Wang, Lei Yang, and Yiyu Shi. <i>Submitted to Journal of Machine Learning Research (**JMLR**)</i>.<br>
+
 ## 2021
 * <b>Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow</b>. <br>
 <b>Zhiding Liang</b>, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang. <i>in Proc. of IEEE/ACM International Conference on Computer-Aided Design (**ICCAD 2021**)</i>.<br>
 [[arXiv]](https://arxiv.org/pdf/2109.03430.pdf)
+<img src="../images/mappingr.png" height="260" width="650">
 * <b>Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs</b>. <br>
 Zhepeng Wang, <b>Zhiding Liang</b>, Shanglin Zhou, Caiwen Ding, Yiyu Shi, Weiwen Jiang. <i>in Proc. of IEEE/ACM International Conference on Computer-Aided Design (**ICCAD 2021**)</i>.<br>
 [[arXiv]](https://arxiv.org/pdf/2109.03806.pdf)
