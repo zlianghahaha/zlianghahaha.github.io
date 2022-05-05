@@ -12,8 +12,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D Student in Computer Science and Engineering, University of Notre Dame, 2026 (expected) <img src="../images/nd.png" height="160" width="150">
-* B.S. in Electrical Engineering, University of Wisconsin, Madison, 2020 <img src="../images/uwm.png" height="260" width="250">
+<img src="../images/nd.png" height="160" width="150">
+  Ph.D Student in Computer Science and Engineering, University of Notre Dame, 2026 (expected)
+  **Research Interests:** 
+<img src="../images/uwm.png" height="260" width="250">
+  B.S. in Electrical Engineering, University of Wisconsin, Madison, 2020
+  **Research Interests:** Plasma, Neuromorphic Computing
+  **Supervisor:** [Professor. Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/)
+  **Collaborator:** [Professor. Zhongrui Wang](https://www.eee.hku.hk/~zrwang/team.html#pi) 
 
 
 Work experience
