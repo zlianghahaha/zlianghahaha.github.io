@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, University of Wisconsin, Madison, 2020
-* Ph.D Student in Computer Science and Engineering, University of Notre Dame, 2026 (expected)
+* B.S. in Electrical Engineering, University of Wisconsin, Madison, 2020 <img src="../images/uwm.png" height="260" width="250">
+* Ph.D Student in Computer Science and Engineering, University of Notre Dame, 2026 (expected) <img src="../images/nd.png" height="260" width="250">
 
 Work experience
 ======
