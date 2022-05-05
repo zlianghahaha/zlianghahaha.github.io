@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Biography"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
+* Ph.D Student in Computer Science and Engineering, University of Notre Dame, 2026 (expected) <img src="../images/nd.png" height="160" width="150">
 * B.S. in Electrical Engineering, University of Wisconsin, Madison, 2020 <img src="../images/uwm.png" height="260" width="250">
-* Ph.D Student in Computer Science and Engineering, University of Notre Dame, 2026 (expected) <img src="../images/nd.png" height="260" width="250">
+
 
 Work experience
 ======
