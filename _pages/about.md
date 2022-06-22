@@ -21,6 +21,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # News
 
+* **Zhiding** and Hanrui has organized quantum computing systems lecture series, please check [Our Website](https://qmlsys.mit.edu/lectures/) sign up on the mail list and follow the update! Welcome to contact for give a talk in our series! 
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the **500$** travel grant from DAC!     April.2022
 * The first paper that claim a new paradiam Variational Quantum Pulse (VQP) for machine learning tasks is available on arxiv! Thanks Hanrui, Jinglei and all collaborators.   April.2022
 * Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionabilty of support quantum pulse, thanks Hanrui!     Feb.2022
