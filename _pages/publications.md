@@ -11,7 +11,7 @@ I'm grateful for having collaborated with these inspiring people, who guide and 
 # Publication
 ## 2022
 * <b>Variational Quantum Pulse Learning</b>. <br>
-<b>Zhiding Liang^</b>, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi. <i>Submitted to IEEE International Conference on Quantum Computing and Engineering (**QCE 2022**)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2203.17267.pdf)
+<b>Zhiding Liang^</b>, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi. <i>Accepted to IEEE International Conference on Quantum Computing and Engineering (**QCE 2022**)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2203.17267.pdf)
 <img src="../images/VQP.png" height="260" width="650">
 
 
