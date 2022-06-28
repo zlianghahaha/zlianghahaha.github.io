@@ -21,6 +21,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # News
 
+* One paper accepted to **QCE**, Cheers!    June.2022
 * **Zhiding** and Hanrui has organized quantum computing systems lecture series, please check [Our Website](https://qmlsys.mit.edu/lectures/) sign up on the mail list and follow the update! Welcome to contact for give a talk in our series! 
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the **500$** travel grant from DAC!     April.2022
 * The first paper that claim a new paradiam Variational Quantum Pulse (VQP) for machine learning tasks is available on arxiv! Thanks Hanrui, Jinglei and all collaborators.   April.2022
@@ -31,7 +32,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 * **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
 
 # Publications
-* **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Arxiv now available. ([arxiv](https://arxiv.org/abs/2203.17267)). 
+* **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://qce.quantum.ieee.org/2022/)). 
 * **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Published in the Proceedings of 40th International Conference On
 Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 * Zhepeng Wang, **Zhiding Liang**, Shanglin Zhou, Caiwen Ding, Yiyu Shi, Weiwen Jiang, “Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs". Published in the Proceedings of the 40th International Conference On
