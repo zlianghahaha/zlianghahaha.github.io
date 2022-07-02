@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the [Department of Computer science and Engine
 I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I was worked with [Professor. Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
 
 # Research
-My research interests recently focus on **Quantum Machine Learning** and **Quantum Optimal Control**. My research aim to find methods to solve the noise problem in NISQ era quantum computer and reduce the compliation overhead in quantum computer.
+My research interests recently focus on **Quantum Machine Learning** and **Quantum Optimal Control**. My research aim to find methods to solve the noise problem in NISQ era quantum computer and reduce the compliation overhead in quantum computer. I am also interested in outreach and education in software and system level quantum computing. I have organizing the [Quantum Computer System Lecture Series (QuCS)](sites.nd.edu/quantum/) with my friend Hanrui Wang.
 
 # Education
 
@@ -22,7 +22,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 # News
 
 * One paper accepted to **QCE**, Cheers!    June.2022
-* **Zhiding** and Hanrui has organized quantum computing systems lecture series, please check [Our Website](https://qmlsys.mit.edu/lectures/) sign up on the mail list and follow the update! Welcome to contact for give a talk in our series! 
+* **Zhiding** and Hanrui has organized quantum computing systems lecture series, please check [Our Website](sites.nd.edu/quantum/) sign up on the mail list and follow the update! Welcome to contact for give a talk in our series! 
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the **500$** travel grant from DAC!     April.2022
 * The first paper that claim a new paradiam Variational Quantum Pulse (VQP) for machine learning tasks is available on arxiv! Thanks Hanrui, Jinglei and all collaborators.   April.2022
 * Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionabilty of support quantum pulse, thanks Hanrui!     Feb.2022
