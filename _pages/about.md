@@ -32,6 +32,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 * **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
 
 # Publications
+* **Zhiding Liang^**, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Yongshan Ding, Fred Chong, Song Han, Yiyu Shi, Xuehai Qian, "PAN:Pulse Ansatz on NISQ Machines". ([arxiv](https://arxiv.org/abs/2208.01215))
 * **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://qce.quantum.ieee.org/2022/)). 
 * **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Published in the Proceedings of 40th International Conference On
 Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
@@ -51,6 +52,7 @@ Computer-Aided Design (ICCAD), 2021
 * Tutorial of QuantumFlow, Embedded Systems Week (ESWEEK), 2021
 
 # Activity and Service
+* Journal Reviewer: [Quantum Information Processing](https://www.springer.com/journal/11128)
 * Teaching Assistant. Operating System. University of Notre Dame (Silicon Valley Campus). 2022Spring
 * Teaching Assistant. System Programming. University of Notre Dame. 2021Fall
 <!---Experience--->
