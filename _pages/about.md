@@ -24,7 +24,6 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 * One paper accepted to **QCE**, Cheers!    June.2022
 * **Zhiding** and Hanrui has organized quantum computing systems lecture series, please check [Our Website](https://sites.nd.edu/quantum/) sign up on the mail list and follow the update! Welcome to contact for give a talk in our series! 
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the **500$** travel grant from DAC!     April.2022
-* The first paper that claim a new paradiam Variational Quantum Pulse (VQP) for machine learning tasks is available on arxiv! Thanks Hanrui, Jinglei and all collaborators.   April.2022
 * Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionabilty of support quantum pulse, thanks Hanrui!     Feb.2022
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers!    Nov.2021         
 * Two papers will be published on **ICCAD**, Cheers!    Sep.2021
@@ -41,17 +40,20 @@ Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 * **Zhiding Liang**, “A comprehensive understanding of conductive mechanism of RRAM: from electron conduction to ionic dynamics". Published in the 2nd International Conference on Electrical Engineering and Control Technologies ([CEECT 2020](https://www.ceect.org/))
 
 # Honors and Awards
+* 2022 DAC Young Fellow with **500$** Travel Grant. <br> DAC. 2022
 * 2021 DAC Young Fellow. <br> DAC. 2021
 * [Certificate of Quantum Excellence (100/100)](https://jqub.github.io/2021/08/27/news_21_08_27-IBMQ/index.html). <br>IBM. 2021.
 * Dean's List. <br> University of Wisconsin, Madison. 2018fall - 2020spring.
 * Dean's List. <br> Auburn University. 2017spring - 2018spring.
 
 # Selected Talks
+* Scalable Design-Program-Compilation Optimizations for Quantum Algorithms, Design Automation Conference (DAC), 2022
 * A Quantum Machine Learning Co-Design Framework Towards Quantum Advantage, International Conference On
 Computer-Aided Design (ICCAD), 2021
 * Tutorial of QuantumFlow, Embedded Systems Week (ESWEEK), 2021
 
 # Activity and Service
+* Organizer of [QuCS: Quantum Computer Systems Lecture Series](https://sites.nd.edu/quantum/)
 * Journal Reviewer: [Quantum Information Processing](https://www.springer.com/journal/11128)
 * Teaching Assistant. Operating System. University of Notre Dame (Silicon Valley Campus). 2022Spring
 * Teaching Assistant. System Programming. University of Notre Dame. 2021Fall
