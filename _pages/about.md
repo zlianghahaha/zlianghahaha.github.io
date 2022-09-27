@@ -50,6 +50,8 @@ Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 * Dean's List. <br> Auburn University. 2017spring - 2018spring.
 
 # Selected Talks
+* Tutorial on TorchQuantum: A Fast Library for Parameterized Quantum Circuits, IEEE Quantum Week (QuantumWeek), 2022
+* QuCS: A Lecture Series on Quantum Computer Software and System, IEEE Quantum Week (QuantumWeek), 2022
 * Scalable Design-Program-Compilation Optimizations for Quantum Algorithms, Design Automation Conference (DAC), 2022
 * A Quantum Machine Learning Co-Design Framework Towards Quantum Advantage, International Conference On
 Computer-Aided Design (ICCAD), 2021
