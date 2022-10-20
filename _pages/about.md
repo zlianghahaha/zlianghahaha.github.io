@@ -33,11 +33,13 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # Publications
 * **Zhiding Liang^**, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Yongshan Ding, Fred Chong, Song Han, Yiyu Shi, Xuehai Qian, "PAN:Pulse Ansatz on NISQ Machines". ([arxiv](https://arxiv.org/abs/2208.01215))
-* **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://qce.quantum.ieee.org/2022/)). 
-* **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Published in the Proceedings of 40th International Conference On Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
+* **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://arxiv.org/pdf/2203.17267.pdf)). 
+* **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Published in the Proceedings of 40th International Conference On Computer-Aided Design ([ICCAD 2021](https://arxiv.org/pdf/2109.03430.pdf)).
 * **Zhiding Liang**, “A comprehensive understanding of conductive mechanism of RRAM: from electron conduction to ionic dynamics". Published in the 2nd International Conference on Electrical Engineering and Control Technologies ([CEECT 2020](https://www.ceect.org/))
+* Jinglei Cheng, Hanrui Wang, **Zhiding Liang**, Yiyu Shi, Song Han, Xuehai Qian, "TopGen: Topology-Aware Bottom-Up Generator for Variational Quantum Circuits". ([arxiv](https://arxiv.org/pdf/2210.08190.pdf))
+* Ruiyang Qin, **Zhiding Liang**, Jinglei Cheng, Peter Kogge, Yiyu Shi, “Improving Quantum Classifier Performance in NISQ Computers by Voting Strategy from Ensemble Learning”. ([arxiv](https://arxiv.org/pdf/2210.01656.pdf))
 * Hanrui Wang, Junyu Liu, Jinglei Cheng, **Zhiding Liang**, Jiaqi Gu, Zirui Li, Yongshan Ding, Weiwen Jiang, Yiyu Shi, Xuehai Qian, David Z. Pan, Frederic T. Chong, Song Han. “Graph Transformer for Quantum Circuit Reliability Prediction". Accepted to the Proceedings of the 41th International Conference On
-Computer-Aided Design ([ICCAD 2022](https://iccad.com/index.php/)).
+Computer-Aided Design ([ICCAD 2022](https://qmlsys.mit.edu/wp-content/uploads/2022/09/ICCAD2022_Transformer.pdf)).
 * Zhepeng Wang, **Zhiding Liang**, Shanglin Zhou, Caiwen Ding, Yiyu Shi, Weiwen Jiang, “Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs". Published in the Proceedings of the 40th International Conference On
 Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 
