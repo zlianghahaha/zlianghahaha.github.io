@@ -21,6 +21,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # News
 
+* I am happy to share I get married with Yiru Wang on Oct 12th in Las Vegas (officially married)!!! I fall in love with Yiru Wang for over four years and we finally together to make a family!
 * One paper will apear on **ICCAD**, Cheers!    Aug.2022
 * One paper accepted to **QCE**, Cheers!    June.2022
 * **Zhiding** and Hanrui has organized quantum computing systems lecture series, please check [Our Website](https://sites.nd.edu/quantum/) sign up on the mail list and follow the update! Welcome to contact for give a talk in our series! 
