@@ -21,6 +21,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # News
 
+* I will join **JPMorgan Chase & Co** as a Global Technologies Research Associate Intern in Quantum Computing Program during June 2023 - Augest 2023. 
 * I will join **Yale Quantum Insitute** as a visiting scholar under supervised by **Prof. Yongshan Ding** during Feb 2023 - June 2023.
 * I am happy to share I get married with **Yiru Wang** on Oct 12th in Las Vegas (officially married)!!! I fall in love with **Yiru Wang** for over four years and we finally together to make a family!
 * One paper will apear on **ICCAD**, Cheers!    Aug.2022
@@ -34,6 +35,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 * **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
 
 # Publications
+* **Zhiding Liang**, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, Yiru Wang, Song Han, Xuehai Qian, Yiyu Shi, "Hybrid Gate-Pulse Model for Variational Quantum Algorithms". ([arxiv](https://arxiv.org/pdf/2212.00661.pdf))
 * **Zhiding Liang^**, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Yongshan Ding, Fred Chong, Song Han, Yiyu Shi, Xuehai Qian, "PAN:Pulse Ansatz on NISQ Machines". ([arxiv](https://arxiv.org/abs/2208.01215))
 * **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://arxiv.org/pdf/2203.17267.pdf)). 
 * **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Published in the Proceedings of 40th International Conference On Computer-Aided Design ([ICCAD 2021](https://arxiv.org/pdf/2109.03430.pdf)).
@@ -54,6 +56,8 @@ Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 * Dean's List. <br> Auburn University. 2017spring - 2018spring.
 
 # Selected Talks
+* Tutorial: TorchQuantum Case Study For Robust Quantum Circuits, International Conference On
+Computer-Aided Design (ICCAD), 2022
 * Tutorial on TorchQuantum: A Fast Library for Parameterized Quantum Circuits, IEEE Quantum Week (QuantumWeek), 2022
 * QuCS: A Lecture Series on Quantum Computer Software and System, IEEE Quantum Week (QuantumWeek), 2022
 * Scalable Design-Program-Compilation Optimizations for Quantum Algorithms, Design Automation Conference (DAC), 2022
