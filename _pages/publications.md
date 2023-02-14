@@ -9,10 +9,11 @@ My research aims to reduce the noise and compliation overhead problem in NISQ er
 I'm grateful for having collaborated with these inspiring people, who guide and help me alot in my research path: [Yongshan Ding (Assistant Professor at Yale)](https://www.yongshanding.com/), [Hanrui Wang (PhD Candidate at MIT)](https://hanruiwang.me/), [Jinglei Cheng (PhD student at Purdue)](https://www.linkedin.com/in/jinglei-cheng-b7235a12b/), [Zhongrui Wang (Assistant Professor at HKU)](https://www.eee.hku.hk/~zrwang/).
 
 # Publication
-## 2022
+## 2023
 * <b>Hybrid gate-pulse model for variational quantum algorithms</b>. <br>
-<b>Zhiding Liang</b>, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, Yiru Wang, Song Han, Xuehai Qian, Yiyu Shi. <i>**in submission**</i>.<br>[[arXiv]](https://arxiv.org/pdf/2212.00661.pdf)
+<b>Zhiding Liang</b>, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, Yiru Wang, Song Han, Xuehai Qian, Yiyu Shi. <i>Accepted to IEEE/ACM Design Automation Conference(**DAC 2023**)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2212.00661.pdf)
 
+## 2022
 * <b>PAN: Pulse Ansatz on NISQ Machines</b>. <br>
 <b>Zhiding Liang^</b>, Jinglei Cheng^, Hang Ren, Hanrui Wang, Yongshan Ding, Fred Chong, Song Han, Yiyu Shi, Xuehai Qian. <i>**in submission**</i>.<br>[[arXiv]](https://arxiv.org/pdf/2208.01215.pdf)
 
