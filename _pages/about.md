@@ -21,6 +21,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # News
 
+* One paper accepted to Quantum Science and Engineering Education track of **QCE23**, Cheers! July.2023
 * One paper accepted to **DAC**, Cheers! Feb.2023
 * I will join **JPMorgan Chase & Co** as a Global Technologies Research Associate Intern in Quantum Computing Program during June 2023 - Augest 2023. 
 * I will join **Yale Quantum Insitute** as a visiting scholar under supervised by **Prof. Yongshan Ding** during Feb 2023 - June 2023.
@@ -36,8 +37,9 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 * **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
 
 # Publications
+* **Zhiding Liang**, Hanrui Wang,  "QuCS: A Lecture Series on Quantum Computer Software and System". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://arxiv.org/pdf/2203.17267.pdf)) Quantum Science and Engineering Education (QSSEC23) track . 
 * **Zhiding Liang**, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, Yiru Wang, Song Han, Xuehai Qian, Yiyu Shi, "Hybrid Gate-Pulse Model for Variational Quantum Algorithms". Accepted to the 60th IEEE/ACM Design Automation Conference([DAC 2023](https://arxiv.org/pdf/2212.00661.pdf))
-* **Zhiding Liang^**, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Yongshan Ding, Fred Chong, Song Han, Yiyu Shi, Xuehai Qian, "PAN:Pulse Ansatz on NISQ Machines". Under Review at ACM Transcations on Quantum Computing([arxiv](https://arxiv.org/abs/2208.01215))
+* **Zhiding Liang^**, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Yongshan Ding, Fred Chong, Song Han, Yiyu Shi, Xuehai Qian, "PAN:Pulse Ansatz on NISQ Machines". ([arxiv](https://arxiv.org/abs/2208.01215))
 * **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://arxiv.org/pdf/2203.17267.pdf)). 
 * **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Published in the Proceedings of 40th International Conference On Computer-Aided Design ([ICCAD 2021](https://arxiv.org/pdf/2109.03430.pdf)).
 * **Zhiding Liang**, “A comprehensive understanding of conductive mechanism of RRAM: from electron conduction to ionic dynamics". Published in the 2nd International Conference on Electrical Engineering and Control Technologies ([CEECT 2020](https://www.ceect.org/))
@@ -69,13 +71,12 @@ Computer-Aided Design (ICCAD), 2021
 # Activity and Service
 * Organizer of [QuCS: Quantum Computer Systems Lecture Series](https://sites.nd.edu/quantum/)
 * Journal Reviewer: [Quantum Information Processing](https://www.springer.com/journal/11128)
-* Conference Reviewer: [Quantum 22' (Workshop in ACM/IEEE SEC)](https://iwqc22.github.io/)
+* Conference Reviewer: [Neurips 2023](https://nips.cc/), [Quantum 22' (Workshop in ACM/IEEE SEC)](https://iwqc22.github.io/)
+* PC Member: [QSEEC 2023](https://ed.quantum.ieee.org/qseec-23/)
 * Teaching Assistant. Operating System. University of Notre Dame (Silicon Valley Campus). 2022Spring
 * Teaching Assistant. System Programming. University of Notre Dame. 2021Fall
 <!---Experience--->
 
-# Supervised Student
-* Jiakun Wang, undergrad at CMU. 2022 Spring.
 
 # Collaborators
  <img src="../images/mit.png" height="200" width="150"><img src="../images/usc.png" height="200" width="150"><img src="../images/yale.png" height="200" width="150"><img src="../images/gmu.png" height="75" width="150"><img src="../images/UCB.png" height="150" width="150">
