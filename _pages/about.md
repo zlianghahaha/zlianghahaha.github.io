@@ -21,6 +21,7 @@ My research interests recently focus on **Quantum Machine Learning** and **Quant
 
 # News
 
+* I am honored to be selected as **Edison Innovation Fellow** at University of Notre Dame, Cheers! Aug.2023
 * One paper accepted to Quantum Science and Engineering Education track of **QCE23**, Cheers! July.2023
 * One paper accepted to **DAC**, Cheers! Feb.2023
 * I will join **JPMorgan Chase & Co** as a Global Technologies Research Associate Intern in Quantum Computing Program during June 2023 - Augest 2023. 
@@ -52,6 +53,7 @@ Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 
 
 # Honors and Awards
+* Edison Innovation Fellowship <br> University of Notre Dame. 2023/2024 Calendar Year
 * 2022 DAC Young Fellow with **500$** Travel Grant. <br> DAC. 2022
 * 2021 DAC Young Fellow. <br> DAC. 2021
 * [Certificate of Quantum Excellence (100/100)](https://jqub.github.io/2021/08/27/news_21_08_27-IBMQ/index.html). <br>IBM. 2021.
