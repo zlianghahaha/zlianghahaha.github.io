@@ -7,17 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Department of Computer science and Engineering](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu//), under the supervision of [Professor. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at University of Notre Dame and Assistant [Professor. Weiwen Jiang](https://jqub.github.io/) at George Mason University. <br> 
+I am currently a Second Year Ph.D. student in the [Department of Computer science and Engineering](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu//), under the supervision of [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at University of Notre Dame. I also closely work with [Prof. Yongshan Ding](https://www.yongshanding.com/) at Yale University, [Prof. Weiwen Jiang](https://jqub.github.io/) at George Mason University, and [Prof. Tongyang Li](https://www.tongyangli.com/) at Peking University. <br> 
 I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I was worked with [Professor. Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
 
 # Research
-My research interests recently focus on **Quantum Machine Learning** and **Quantum Optimal Control**. My research aim to find methods to solve the noise problem in NISQ era quantum computer and reduce the compliation overhead in quantum computer. I am also interested in outreach and education in software and system level quantum computing. I have organizing the [Quantum Computer System Lecture Series (QuCS)](https://sites.nd.edu/quantum/) with my friend Hanrui Wang.
+My research interests recently focus on quantum computing: 
+- **Pulse Ansatz and Pulse Learning for Variational Quantum Algorithm** 
+- **Efficient Crosslayer Ansatz by Hardware and Software Co-design**
+
+ I am also interested in outreach and education in software and system level quantum computing. I have organizing the [Quantum Computer System Lecture Series (QuCS)](https://sites.nd.edu/quantum/) with my friend Hanrui Wang.
 
 # Education
 
 * **University of Notre Dame**. PhD student in Computer science and Engineering. 2021 - 2026 (Expected)
 * **University of Wisconsin, Madison**. B.S. in Electrical Engineering. 2018 - 2020
 * **Auburn University**. Computer Engineering transfer to **UW-Madison**. 2016-2018
+
+# Professional Experience
+
+* **JPMorgan Chase&Co**. Research Technology Summer Associate. 2023 Summer
+* **Silan Microelectronics**. Back-end Development Intern. 2018 Summer
+
 
 # News
 
