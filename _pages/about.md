@@ -15,8 +15,7 @@ My research interests recently focus on quantum computing:
 - **Pulse Ansatz and Pulse Learning for Variational Quantum Algorithm** 
 - **Efficient Crosslayer Ansatz by Hardware and Software Co-design**
 
- I am also interested in outreach and education in software and system level quantum computing. I have organizing the [Quantum Computer System Lecture Series (QuCS)](https://sites.nd.edu/quantum/) with my friend Hanrui Wang.
-
+ I am also interested in outreach and education in software and system level quantum computing. I have organizing the [Quantum Computer System Lecture Series (QuCS)](https://sites.nd.edu/quantum/). I am also lead to organize the [2023 ACM/IEEE Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/index.html) at International Conference on Computer-Aided Design ([ICCAD 2023](https://iccad.com/index.php/)).
 # Education
 
 * **University of Notre Dame**. PhD student in Computer science and Engineering. 2021 - 2026 (Expected)
@@ -31,6 +30,8 @@ My research interests recently focus on quantum computing:
 
 # News
 
+
+* I lead to organize the 2023 ACM/IEEE Contest for Machine Learning on Hardware at International Conference on Computer-Aided Design (ICCAD) -- Track 2: [Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/index.html) ! Aug 22, 2023
 * I am honored to be selected as **Edison Innovation Fellow** at University of Notre Dame, Cheers! Aug.2023
 * One paper accepted to Quantum Science and Engineering Education track of **QCE23**, Cheers! July.2023
 * One paper accepted to **DAC**, Cheers! Feb.2023
