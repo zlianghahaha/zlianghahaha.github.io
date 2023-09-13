@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Second Year Ph.D. student in the [Department of Computer science and Engineering](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu//), under the supervision of [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at University of Notre Dame. I also closely work with [Prof. Yongshan Ding](https://www.yongshanding.com/) at Yale University, [Prof. Weiwen Jiang](https://jqub.github.io/) at George Mason University, and [Prof. Tongyang Li](https://www.tongyangli.com/) at Peking University. <br> 
+I am currently a Ph.D. student in the [Department of Computer science and Engineering](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu//), under the supervision of [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at University of Notre Dame. I also closely work with [Prof. Yongshan Ding](https://www.yongshanding.com/) at Yale University, [Prof. Weiwen Jiang](https://jqub.github.io/) at George Mason University, and [Prof. Tongyang Li](https://www.tongyangli.com/) at Peking University. <br> 
 I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I was worked with [Professor. Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
 
 # Research
@@ -24,9 +24,17 @@ My research interests recently focus on quantum computing:
 
 # Professional Experience
 
-* **JPMorgan Chase&Co**. Research Technology Summer Associate. 2023 Summer
+* **JPMorgan Chase&Co**. Research Technology Summer Associate - Quantum Computing. 2023 Summer
 * **Silan Microelectronics**. Back-end Development Intern. 2018 Summer
 
+# Honors and Awards
+* Edison Innovation Fellowship <br> University of Notre Dame.
+* 2023 ISCA Student Travel Grant. <br> ISCA. 2023
+* 2022 DAC Young Fellow with **500$** Travel Grant. <br> DAC. 2022
+* 2021 DAC Young Fellow. <br> DAC. 2021
+* [Certificate of Quantum Excellence (100/100)](https://jqub.github.io/2021/08/27/news_21_08_27-IBMQ/index.html). <br>IBM. 2021.
+* Dean's List. <br> University of Wisconsin, Madison. 2018fall - 2020spring.
+* Dean's List. <br> Auburn University. 2017spring - 2018spring.
 
 # News
 
@@ -61,15 +69,6 @@ My research interests recently focus on quantum computing:
 Computer-Aided Design ([ICCAD 2022](https://qmlsys.mit.edu/wp-content/uploads/2022/09/ICCAD2022_Transformer.pdf)).
 * Zhepeng Wang, **Zhiding Liang**, Shanglin Zhou, Caiwen Ding, Yiyu Shi, Weiwen Jiang, “Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs". Published in the Proceedings of the 40th International Conference On
 Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
-
-
-# Honors and Awards
-* Edison Innovation Fellowship <br> University of Notre Dame. 2023/2024 Calendar Year
-* 2022 DAC Young Fellow with **500$** Travel Grant. <br> DAC. 2022
-* 2021 DAC Young Fellow. <br> DAC. 2021
-* [Certificate of Quantum Excellence (100/100)](https://jqub.github.io/2021/08/27/news_21_08_27-IBMQ/index.html). <br>IBM. 2021.
-* Dean's List. <br> University of Wisconsin, Madison. 2018fall - 2020spring.
-* Dean's List. <br> Auburn University. 2017spring - 2018spring.
 
 # Selected Talks
 * Tutorial: TorchQuantum Case Study For Robust Quantum Circuits, International Conference On
