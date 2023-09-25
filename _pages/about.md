@@ -22,7 +22,7 @@ My research interests recently focus on quantum computing:
  I am also interested in outreach and education in software and system level quantum computing. I have organizing the [Quantum Computer System Lecture Series (QuCS)](https://sites.nd.edu/quantum/). I am also lead to organize the [2023 ACM/IEEE Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/index.html) at International Conference on Computer-Aided Design ([ICCAD 2023](https://iccad.com/index.php/)).
 # Education
 
-* **University of Notre Dame**. PhD student in Computer science and Engineering. 2021 - 2026 (Expected)
+* **University of Notre Dame**. PhD student in Computer science and Engineering. 2021 - Now
 * **University of Wisconsin, Madison**. B.S. in Electrical Engineering. 2018 - 2020
 * **Auburn University**. Computer Engineering transfer to **UW-Madison**. 2016-2018
 
