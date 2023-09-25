@@ -10,6 +10,10 @@ redirect_from:
 I am currently a Second Year Ph.D. student in the [Department of Computer science and Engineering](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu//), under the supervision of [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at University of Notre Dame. I also closely work with [Prof. Yongshan Ding](https://www.yongshanding.com/) at Yale University, [Prof. Weiwen Jiang](https://jqub.github.io/) at George Mason University, and [Prof. Tongyang Li](https://www.tongyangli.com/) at Peking University. <br> 
 I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I was worked with [Professor. Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
 
+Please check my [CV](CV_ZhidingLiang.pdf) for details. 
+
+<font color="red">I’m on academic job market this year, please reach out for any opportunities!</font>
+
 # Research
 My research interests recently focus on quantum computing: 
 - **Pulse Ansatz and Pulse Learning for Variational Quantum Algorithm** 
