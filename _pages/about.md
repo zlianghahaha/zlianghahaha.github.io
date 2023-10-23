@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Department of Computer science and Engineering](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu//), under the supervision of [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at University of Notre Dame. I also closely work with [Prof. Yongshan Ding](https://www.yongshanding.com/) at Yale University, [Prof. Weiwen Jiang](https://jqub.github.io/) at George Mason University, and [Prof. Tongyang Li](https://www.tongyangli.com/) at Peking University. <br> 
+I am currently a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu//), under the supervision of [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at University of Notre Dame. I also closely work with [Prof. Yongshan Ding](https://www.yongshanding.com/) at Yale University, [Prof. Weiwen Jiang](https://jqub.github.io/) at George Mason University, and [Prof. Tongyang Li](https://www.tongyangli.com/) at Peking University. <br> 
 I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I was worked with [Professor. Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
 
 Please check my [CV](CV_ZhidingLiang.pdf) for details. 
@@ -61,7 +61,7 @@ My research interests recently focus on quantum computing:
 * **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
 
 # Publications
-* **Zhiding Liang**, Hanrui Wang,  "QuCS: A Lecture Series on Quantum Computer Software and System". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://arxiv.org/pdf/2203.17267.pdf)) Quantum Science and Engineering Education (QSSEC23) track . 
+* **Zhiding Liang**, Hanrui Wang,  "[QuCS: A Lecture Series on Quantum Computer Software and System](2309.15908.pdf)". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2023](https://arxiv.org/pdf/2203.17267.pdf)) Quantum Science and Engineering Education (QSSEC23) track . 
 * **Zhiding Liang**, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, Yiru Wang, Song Han, Xuehai Qian, Yiyu Shi, "Hybrid Gate-Pulse Model for Variational Quantum Algorithms". Accepted to the 60th IEEE/ACM Design Automation Conference([DAC 2023](https://arxiv.org/pdf/2212.00661.pdf))
 * **Zhiding Liang^**, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Yongshan Ding, Fred Chong, Song Han, Yiyu Shi, Xuehai Qian, "PAN:Pulse Ansatz on NISQ Machines". ([arxiv](https://arxiv.org/abs/2208.01215))
 * **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://arxiv.org/pdf/2203.17267.pdf)). 
