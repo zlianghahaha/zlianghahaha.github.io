@@ -33,8 +33,9 @@ My research interests recently focus on quantum computing:
 
 # Honors and Awards
 * Edison Innovation Fellowship <br> University of Notre Dame.
+* 2023 ICCAD Student Scholar Program Grant. <br> ICCAD. 2023
 * 2023 ISCA Student Travel Grant. <br> ISCA. 2023
-* 2022 DAC Young Fellow with **500$** Travel Grant. <br> DAC. 2022
+* 2022 DAC Young Fellow with Travel Grant. <br> DAC. 2022
 * 2021 DAC Young Fellow. <br> DAC. 2021
 * [Certificate of Quantum Excellence (100/100)](https://jqub.github.io/2021/08/27/news_21_08_27-IBMQ/index.html). <br>IBM. 2021.
 * Dean's List. <br> University of Wisconsin, Madison. 2018fall - 2020spring.
@@ -53,7 +54,7 @@ My research interests recently focus on quantum computing:
 * One paper will apear on **ICCAD**, Cheers!    Aug.2022
 * One paper accepted to **QCE**, Cheers!    June.2022
 * **Zhiding** and Hanrui has organized quantum computing systems lecture series, please check [Our Website](https://sites.nd.edu/quantum/) sign up on the mail list and follow the update! Welcome to contact for give a talk in our series! 
-* **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the **500$** travel grant from DAC!     April.2022
+* **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the travel grant from DAC!     April.2022
 * Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionabilty of support quantum pulse, thanks Hanrui!     Feb.2022
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers!    Nov.2021         
 * Two papers will be published on **ICCAD**, Cheers!    Sep.2021
