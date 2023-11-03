@@ -50,7 +50,6 @@ My research interests recently focus on quantum computing:
 * One paper accepted to **DAC**, Cheers! Feb.2023
 * I will join **JPMorgan Chase & Co** as a Global Technologies Research Associate Intern in Quantum Computing Program during June 2023 - Augest 2023. 
 * I will join **Yale Quantum Insitute** as a visiting scholar under supervised by **Prof. Yongshan Ding** during Feb 2023 - June 2023.
-* I am happy to share I get married with **Yiru Wang** on Oct 12th in Las Vegas (officially married)!!! I fall in love with **Yiru Wang** for over four years and we finally together to make a family!
 * One paper will apear on **ICCAD**, Cheers!    Aug.2022
 * One paper accepted to **QCE**, Cheers!    June.2022
 * **Zhiding** and Hanrui has organized quantum computing systems lecture series, please check [Our Website](https://sites.nd.edu/quantum/) sign up on the mail list and follow the update! Welcome to contact for give a talk in our series! 
@@ -58,7 +57,6 @@ My research interests recently focus on quantum computing:
 * Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionabilty of support quantum pulse, thanks Hanrui!     Feb.2022
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers!    Nov.2021         
 * Two papers will be published on **ICCAD**, Cheers!    Sep.2021
-* Become a contributor to [QFNN](https://github.com/JQub/qfnn), design the QF-RobustNN to support Quantumflow, thanks Zhirui!     Sep.2021
 * **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
 
 # Publications
