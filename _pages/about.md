@@ -43,21 +43,35 @@ My research interests recently focus on quantum computing:
 
 # News
 
-* My work PAN(also regoganized as NAPA)([arxiv](https://arxiv.org/abs/2208.01215))is highlighted by [IBM Qiskit](https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd)!
+* One paper accepted by **TVCG**, Cheers!     Dec. 2023
+* My work PAN (also recognized as NAPA) ([arxiv](https://arxiv.org/abs/2208.01215)) is highlighted by [IBM Qiskit](https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd)!
 * I lead to organize the 2023 ACM/IEEE Contest for Machine Learning on Hardware at International Conference on Computer-Aided Design (ICCAD) -- Track 2: [Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/index.html) ! Aug 22, 2023
 * I am honored to be selected as **Edison Innovation Fellow** at University of Notre Dame, Cheers! Aug.2023
 * One paper accepted to Quantum Science and Engineering Education track of **QCE23**, Cheers! July.2023
 * One paper accepted to **DAC**, Cheers! Feb.2023
-* I will join **JPMorgan Chase & Co** as a Global Technologies Research Associate Intern in Quantum Computing Program during June 2023 - Augest 2023. 
-* I will join **Yale Quantum Insitute** as a visiting scholar under supervised by **Prof. Yongshan Ding** during Feb 2023 - June 2023.
-* One paper will apear on **ICCAD**, Cheers!    Aug.2022
-* One paper accepted to **QCE**, Cheers!    June.2022
-* **Zhiding** and Hanrui has organized quantum computing systems lecture series, please check [Our Website](https://sites.nd.edu/quantum/) sign up on the mail list and follow the update! Welcome to contact for give a talk in our series! 
-* **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the travel grant from DAC!     April.2022
-* Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionabilty of support quantum pulse, thanks Hanrui!     Feb.2022
-* **Zhiding** has been selected as a **DAC Young Fellow**, Cheers!    Nov.2021         
-* Two papers will be published on **ICCAD**, Cheers!    Sep.2021
-* **Zhiding** has joining University of Notre Dame as a PhD student in Computer Science and Engineering department under guidence of **Prof. Yiyu Shi**.    July.2021
+* I will join **JPMorgan Chase & Co** as a Global Technologies Research Associate Intern in Quantum Computing Program during June 2023 - Augest 2023.
+* I will join **Yale Quantum Institute** as a visiting scholar under supervised by **Prof. Yongshan Ding** during Feb 2023 - June 2023.
+* One paper will appear on **ICCAD**, Cheers! Aug.2022
+* One paper accepted to **QCE**, Cheers! June.2022
+* **Zhiding** and Hanrui have organized quantum computing systems lecture series, please check [Our Website](https://sites.nd.edu/quantum/) sign up on the mail list and follow the update! Welcome to contact for giving a talk in our series!
+* **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the travel grant from DAC! April.2022
+<!-- more -->
+
+<div style="display:none" id="additional-news">
+* Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionality of support quantum pulse, thanks Hanrui! Feb.2022
+* **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Nov.2021
+* Two papers will be published on **ICCAD**, Cheers! Sep.2021
+* **Zhiding** has joined University of Notre Dame as a PhD student in Computer Science and Engineering department under guidance of **Prof. Yiyu Shi**. July.2021
+</div>
+
+<a href="javascript:void(0);" onclick="toggleNews()">Read More</a>
+
+<script>
+function toggleNews() {
+    var news = document.getElementById('additional-news');
+    news.style.display = news.style.display === 'none' ? 'block' : 'none';
+}
+</script>
 
 # Publications
 * **Zhiding Liang**, Hanrui Wang,  "[QuCS: A Lecture Series on Quantum Computer Software and System](2309.15908.pdf)". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2023](https://arxiv.org/pdf/2203.17267.pdf)) Quantum Science and Engineering Education (QSSEC23) track . 
@@ -74,6 +88,13 @@ Computer-Aided Design ([ICCAD 2022](https://qmlsys.mit.edu/wp-content/uploads/20
 Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
 
 # Selected Talks
+
+* Parameterized Quantum Pulses for Variational Quantum Algorithms. Eitech, 2023
+* Parameterized Quantum Pulses for Variational Quantum Algorithms. University of Michigan-Shanghai Jiao Tong University Joint Institute, 2023
+* Parameterized Quantum Pulses and It’s Application, IEEE Quantum Week (QuantumWeek), 2023
+* Parameterized Quantum Pulses for Variational Quantum Algorithms, MAIB by Society of Artificial Intelligence Research (SAIR), 2023
+* TorchQuantum: A Fast Library for Parameterized Quantum Circuits, International Symposium on Computer Architecture (ISCA), 2023
+* Hybrid Gate - Pulse Model for Variational Quantum Algorithm, Peking University, 2023
 * Tutorial: TorchQuantum Case Study For Robust Quantum Circuits, International Conference On
 Computer-Aided Design (ICCAD), 2022
 * Tutorial on TorchQuantum: A Fast Library for Parameterized Quantum Circuits, IEEE Quantum Week (QuantumWeek), 2022
@@ -86,7 +107,7 @@ Computer-Aided Design (ICCAD), 2021
 # Activity and Service
 * Organizer of [QuCS: Quantum Computer Systems Lecture Series](https://sites.nd.edu/quantum/)
 * Journal Reviewer: [Quantum Information Processing](https://www.springer.com/journal/11128)
-* Conference Reviewer: [Neurips 2023](https://nips.cc/), [Quantum 22' (Workshop in ACM/IEEE SEC)](https://iwqc22.github.io/)
+* Conference Reviewer:[ICLR 2024](https://iclr.cc/), [ICML 2024](https://icml.cc/Conferences/2024/Dates), [Neurips 2023](https://nips.cc/), [Quantum 22' (Workshop in ACM/IEEE SEC)](https://iwqc22.github.io/)
 * PC Member: [QSEEC 2023](https://ed.quantum.ieee.org/qseec-23/)
 * Teaching Assistant. Operating System. University of Notre Dame (Silicon Valley Campus). 2022Spring
 * Teaching Assistant. System Programming. University of Notre Dame. 2021Fall
