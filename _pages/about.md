@@ -43,9 +43,9 @@ My research interests recently focus on quantum computing:
 
 # News
 
-* One paper accepted by **TVCG**, Cheers!     Dec. 2023
+* One paper accepted by **TVCG**, Cheers! Dec. 2023
 * My work PAN (also recognized as NAPA) ([arxiv](https://arxiv.org/abs/2208.01215)) is highlighted by [IBM Qiskit](https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd)!
-* I lead to organize the 2023 ACM/IEEE Contest for Machine Learning on Hardware at International Conference on Computer-Aided Design (ICCAD) -- Track 2: [Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/index.html) ! Aug 22, 2023
+* I lead to organize the 2023 ACM/IEEE Contest for Machine Learning on Hardware at International Conference on Computer-Aided Design (ICCAD) -- Track 2: [Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/index.html)! Aug 22, 2023
 * I am honored to be selected as **Edison Innovation Fellow** at University of Notre Dame, Cheers! Aug.2023
 * One paper accepted to Quantum Science and Engineering Education track of **QCE23**, Cheers! July.2023
 * One paper accepted to **DAC**, Cheers! Feb.2023
@@ -55,23 +55,30 @@ My research interests recently focus on quantum computing:
 * One paper accepted to **QCE**, Cheers! June.2022
 * **Zhiding** and Hanrui have organized quantum computing systems lecture series, please check [Our Website](https://sites.nd.edu/quantum/) sign up on the mail list and follow the update! Welcome to contact for giving a talk in our series!
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Thanks for the travel grant from DAC! April.2022
-<!-- more -->
+<a href="javascript:void(0);" onclick="toggleNews()" id="read-more-btn">Read More</a>
 
 <div style="display:none" id="additional-news">
 * Become a contributor to [TorchQuantum](https://github.com/mit-han-lab/torchquantum) and aim to extend the functionality of support quantum pulse, thanks Hanrui! Feb.2022
 * **Zhiding** has been selected as a **DAC Young Fellow**, Cheers! Nov.2021
 * Two papers will be published on **ICCAD**, Cheers! Sep.2021
 * **Zhiding** has joined University of Notre Dame as a PhD student in Computer Science and Engineering department under guidance of **Prof. Yiyu Shi**. July.2021
-</div>
 
-<a href="javascript:void(0);" onclick="toggleNews()">Read More</a>
+</div>
 
 <script>
 function toggleNews() {
     var news = document.getElementById('additional-news');
-    news.style.display = news.style.display === 'none' ? 'block' : 'none';
+    var btn = document.getElementById('read-more-btn');
+    if (news.style.display === 'none') {
+        news.style.display = 'block';
+        btn.textContent = 'Read Less';
+    } else {
+        news.style.display = 'none';
+        btn.textContent = 'Read More';
+    }
 }
 </script>
+
 
 # Publications
 * **Zhiding Liang**, Hanrui Wang,  "[QuCS: A Lecture Series on Quantum Computer Software and System](2309.15908.pdf)". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2023](https://arxiv.org/pdf/2203.17267.pdf)) Quantum Science and Engineering Education (QSSEC23) track . 
