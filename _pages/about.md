@@ -47,6 +47,7 @@ My research interests recently focus on quantum computing:
     <li>One paper accepted by <strong>TVCG</strong>, Cheers! Dec. 2023</li>
     <li>My work PAN (also recognized as NAPA) (<a href="https://arxiv.org/abs/2208.01215">arxiv</a>) is highlighted by <a href="https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd">IBM Qiskit</a>!</li>
     <li>I lead to organize the 2023 ACM/IEEE Contest for Machine Learning on Hardware at International Conference on Computer-Aided Design (ICCAD) -- Track 2: <a href="https://qccontest.github.io/QC-Contest/index.html">Quantum Computing for Drug Discovery Challenge</a>! Aug 22, 2023</li>
+    <li>One paper is accepted by the 7th International Conference on Quantum Techinques in Machine Learning (QTML), Cheers! Aug. 2023</li>
     <li>I am honored to be selected as <strong>Edison Innovation Fellow</strong> at University of Notre Dame, Cheers! Aug.2023</li>
     <li>One paper accepted to Quantum Science and Engineering Education track of <strong>QCE23</strong>, Cheers! July.2023</li>
     <li>One paper accepted to <strong>DAC</strong>, Cheers! Feb.2023</li>
@@ -85,8 +86,9 @@ function toggleNews() {
 
 
 # Publications
-* **Zhiding Liang**, Hanrui Wang,  "[QuCS: A Lecture Series on Quantum Computer Software and System](2309.15908.pdf)". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2023](https://arxiv.org/pdf/2203.17267.pdf)) Quantum Science and Engineering Education (QSSEC23) track . 
-* **Zhiding Liang**, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, Yiru Wang, Song Han, Xuehai Qian, Yiyu Shi, "Hybrid Gate-Pulse Model for Variational Quantum Algorithms". Accepted to the 60th IEEE/ACM Design Automation Conference([DAC 2023](https://arxiv.org/pdf/2212.00661.pdf))
+* **Zhiding Liang**, Hanrui Wang, "[QuCS: A Lecture Series on Quantum Computer Software and System](2309.15908.pdf)". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2023](https://arxiv.org/pdf/2203.17267.pdf)) Quantum Science and Engineering Education (QSSEC23) track. 
+* **Zhiding Liang**, Jinglei Cheng, Zhixin Song, Hang Ren, Rui Yang, Hanrui Wang, Kecheng Liu, Peter Kogge, Tongyang Li, Yongshan Ding, Yiyu Shi, "Towards Advantages of Parameterized Quantum Pulses". Accepted to the 7th International Conference on Quantum Techinques in Machine Learning([QTML 2023](https://arxiv.org/pdf/2304.09253.pdf)).
+* **Zhiding Liang**, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, Yiru Wang, Song Han, Xuehai Qian, Yiyu Shi, "Hybrid Gate-Pulse Model for Variational Quantum Algorithms". Accepted to the 60th IEEE/ACM Design Automation Conference([DAC 2023](https://arxiv.org/pdf/2212.00661.pdf)).
 * **Zhiding Liang^**, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Yongshan Ding, Fred Chong, Song Han, Yiyu Shi, Xuehai Qian, "PAN:Pulse Ansatz on NISQ Machines". ([arxiv](https://arxiv.org/abs/2208.01215)) **highlighted** by **[IBM Qiskit](https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd)**.
 * **Zhiding Liang^**, Hanrui Wang^, Jinglei Cheng, Yongshan Ding, Hang Ren, Zhengqi Gao, Duane Boning, Xuehai Qian, Song Han, Weiwen Jiang, Yiyu Shi, "Variational Quantum Pulse Learning". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2022](https://arxiv.org/pdf/2203.17267.pdf)). 
 * **Zhiding Liang**, Zhepeng Wang, Junhuan Yang, Lei Yang, Yiyu Shi, Weiwen Jiang, “Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow”. Published in the Proceedings of 40th International Conference On Computer-Aided Design ([ICCAD 2021](https://arxiv.org/pdf/2109.03430.pdf)).
