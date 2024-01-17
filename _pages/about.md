@@ -129,8 +129,8 @@ Computer-Aided Design (ICCAD), 2021
 
 # Activity and Service
 * Organizer of [QuCS: Quantum Computer Systems Lecture Series](https://sites.nd.edu/quantum/)
-* Journal Reviewer: [Quantum Information Processing](https://www.springer.com/journal/11128)
-* Conference Reviewer:[ICLR 2024](https://iclr.cc/), [ICML 2024](https://icml.cc/Conferences/2024/Dates), [Neurips 2023](https://nips.cc/), [Quantum 22' (Workshop in ACM/IEEE SEC)](https://iwqc22.github.io/)
+* Journal Reviewer: [ACM Transactions on Quantum Computing](https://dl.acm.org/journal/tqc), [Science Partner Jounral Intelligent Computing](https://spj.science.org/journal/icomputing), [Quantum Information Processing](https://www.springer.com/journal/11128)
+* Conference Reviewer:[DAC 2021, 2024](https://www.dac.com/), [ICLR 2024](https://iclr.cc/), [ICML 2024](https://icml.cc/Conferences/2024/Dates), [Neurips 2023](https://nips.cc/), [Quantum 22' (Workshop in ACM/IEEE SEC)](https://iwqc22.github.io/)
 * PC Member: [QSEEC 2023](https://ed.quantum.ieee.org/qseec-23/)
 * Teaching Assistant. Operating System. University of Notre Dame (Silicon Valley Campus). 2022Spring
 * Teaching Assistant. System Programming. University of Notre Dame. 2021Fall
