@@ -12,10 +12,10 @@ I'm grateful for having collaborated with these inspiring people, who guide and 
 ## 2024
 
 * <b>NAPA: Intermediate-level Variational Native-pulse Ansatz for Variational Quantum Algorithms(PAN: Pulse Ansatz on NISQ Machines)</b>. <br>
-<b>Zhiding Liang^</b>, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Zhixin Song, Yongshan Ding, Fred Chong, Song Han, Xuehai Qian, Yiyu Shi. <i>Accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(**TCAD)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2208.01215.pdf)
+<b>Zhiding Liang^</b>, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Zhixin Song, Yongshan Ding, Fred Chong, Song Han, Xuehai Qian, Yiyu Shi. <i>Accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(**TCAD**)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2208.01215.pdf)
 
 ## 2023
-* * <b>QuCS: A Lecture Series on Quantum Computer Software and System</b>. <br>
+* <b>QuCS: A Lecture Series on Quantum Computer Software and System</b>. <br>
 <b>Zhiding Liang</b>, Hanrui Wang. <i>Accepted to IEEE International Conference on Quantum Computing and Engineering (**QCE 2023**) and Quantum Science and Engineering Education (**QSSEC23**)</i>.<br>[[arXiv]](https://zlianghahaha.github.io/2309.15908.pdf)
 
 * <b>Hybrid gate-pulse model for variational quantum algorithms</b>. <br>
