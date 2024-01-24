@@ -23,8 +23,8 @@ Please check my [CV](CV_ZhidingLiang.pdf) for more details.
 
 # Research
 My research interests recently focus on quantum computing, including:
-- **Pulse Ansatz and Pulse Learning for Variational Quantum Algorithms**
-- **Efficient Crosslayer Ansatz by Hardware and Software Co-design**
+- **Hardware Softerware Co-design for Quantum Computing From Gate level to Pulse level**
+- **Efficient Quantum Error Mitigation and Benchmarking at Pulse level**
 
 I am also interested in outreach and education in software and system level quantum computing. I am organizing the [Quantum Computer System Lecture Series (QuCS)](https://sites.nd.edu/quantum/). Additionally, I am leading the organization of the [2023 ACM/IEEE Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/index.html) at the International Conference on Computer-Aided Design ([ICCAD 2023](https://iccad.com/index.php/)).
 
