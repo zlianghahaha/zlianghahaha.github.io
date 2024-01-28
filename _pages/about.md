@@ -52,6 +52,7 @@ I am also interested in outreach and education in software and system level quan
 # News
 
 <ul>
+    <li>One paper will appear on <strong>DAC</strong>, Cheers! Jan. 2024</li>
     <li>One paper accepted by <strong>TCAD</strong>, Cheers! Jan. 2024</li>
     <li>One paper accepted by <strong>TVCG</strong>, Cheers! Dec. 2023</li>
     <li>My work PAN (also recognized as NAPA) (<a href="https://arxiv.org/abs/2208.01215">arxiv</a>) is highlighted by <a href="https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd">IBM Qiskit</a>!</li>
@@ -95,6 +96,7 @@ function toggleNews() {
 
 
 # Publications
+* **Zhiding Liang**, Gang Liu, Zheyuan Liu, Jinglei Cheng, Tianyi Hao, Kecheng Liu, Hang Ren, Zhixin Song, Ji Liu, Fanny Ye, Yiyu Shi, "GraphML on Variational Quantum Algorithms". Accepted to IEEE/ACM Design Automation Conference(**DAC 2024**).
 * **Zhiding Liang^**, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Yongshan Ding, Fred Chong, Song Han, Xuehai Qian, Yiyu Shi, "NAPA: Intermediate-level Variational Native-pulse Ansatz for Variational Quantum Algorithms". Accepted to the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems([TCAD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)), This work also **highlighted** by **[IBM Qiskit](https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd)**.
 * **Zhiding Liang**, Hanrui Wang, "[QuCS: A Lecture Series on Quantum Computer Software and System](2309.15908.pdf)". Accepted to the IEEE International Conference on Quantum Computing and Engineering. ([QCE 2023](https://arxiv.org/pdf/2203.17267.pdf)) Quantum Science and Engineering Education (QSSEC23) track. 
 * **Zhiding Liang**, Jinglei Cheng, Zhixin Song, Hang Ren, Rui Yang, Hanrui Wang, Kecheng Liu, Peter Kogge, Tongyang Li, Yongshan Ding, Yiyu Shi, "Towards Advantages of Parameterized Quantum Pulses". Accepted to the 7th International Conference on Quantum Techinques in Machine Learning([QTML 2023](https://arxiv.org/pdf/2304.09253.pdf)).
