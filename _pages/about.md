@@ -52,7 +52,6 @@ I am also interested in outreach and education in software and system level quan
 # News
 
 <ul>
-    <li>One paper will appear on <strong>DAC</strong>, Cheers! Jan. 2024</li>
     <li>One paper accepted by <strong>TCAD</strong>, Cheers! Jan. 2024</li>
     <li>One paper accepted by <strong>TVCG</strong>, Cheers! Dec. 2023</li>
     <li>My work PAN (also recognized as NAPA) (<a href="https://arxiv.org/abs/2208.01215">arxiv</a>) is highlighted by <a href="https://medium.com/qiskit/enhance-variational-quantum-algorithms-with-qiskit-pulse-and-qiskit-dynamics-768249daf8dd">IBM Qiskit</a>!</li>
