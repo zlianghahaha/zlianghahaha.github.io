@@ -10,8 +10,6 @@ I'm grateful for having collaborated with these inspiring people, who guide and 
 
 # Publication
 ## 2024
-* <b>GraphML on Variational Quantum Algorithms</b>. <br>
-<b>Zhiding Liang</b>, Gang Liu, Zheyuan Liu, Jinglei Cheng, Tianyi Hao, Kecheng Liu, Hang Ren, Zhixin Song, Ji Liu, Fanny Ye, Yiyu Shi. <i>Accepted to IEEE/ACM Design Automation Conference(**DAC 2024**)</i>.<br>
 
 * <b>NAPA: Intermediate-level Variational Native-pulse Ansatz for Variational Quantum Algorithms(PAN: Pulse Ansatz on NISQ Machines)</b>. <br>
 <b>Zhiding Liang^</b>, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Zhixin Song, Yongshan Ding, Fred Chong, Song Han, Xuehai Qian, Yiyu Shi. <i>Accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(**TCAD**)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2208.01215.pdf)
