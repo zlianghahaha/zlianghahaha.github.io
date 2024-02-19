@@ -10,6 +10,11 @@ I'm grateful for having collaborated with these inspiring people, who guide and 
 
 # Publication
 ## 2024
+* <b>Graph Machine Learning for Variational Quantum Algorithms</b>. <br>
+<b>Zhiding Liang</b>, Gang Liu, Zheyuan Liu, Jinglei Cheng, Tianyi Hao, Kecheng Liu, Hang Ren, Zhixin Song, Ji Liu, Fanny Ye, Yiyu Shi.<i>Accepted to IEEE/ACM Design Automation Conference(**DAC 2024**)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2311.17423.pdf)
+
+* <b>SpacePulse: Combining Parameterized Pulses and Contextual Subspace for More Practical VQE</b>. <br>
+<b>Zhiding Liang</b>, Zhixin Song, Jinglei Cheng, Hang Ren, Tianyi Hao, Rui Yang, Yiyu Shi, Tongyang Li.<i>Accepted to IEEE/ACM Design Automation Conference(**DAC 2024**)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2311.17423.pdf)
 
 * <b>NAPA: Intermediate-level Variational Native-pulse Ansatz for Variational Quantum Algorithms(PAN: Pulse Ansatz on NISQ Machines)</b>. <br>
 <b>Zhiding Liang^</b>, Jinglei Cheng^, Hang Ren, Hanrui Wang, Fei Hua, Zhixin Song, Yongshan Ding, Fred Chong, Song Han, Xuehai Qian, Yiyu Shi. <i>Accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(**TCAD**)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2208.01215.pdf)
@@ -23,10 +28,6 @@ I'm grateful for having collaborated with these inspiring people, who guide and 
 
 * <b>Towards Advantages of Parameterized Quantum Pulses</b>. <br>
 <b>Zhiding Liang</b>, Jinglei Cheng, Zhixin Song, Hang Ren, Rui Yang, Hanrui Wang, Kecheng Liu, Peter Kogge, Tongyang Li, Yongshan Ding, Yiyu Shi. <i>Accepted to 7th International Conference on Quantum Techinques in Machine Learning(**QTML**) for Poster Presentation, **Full Paper in Submission**</i>.<br>[[arXiv]](https://arxiv.org/pdf/2304.09253.pdf)
-
-* <b>SpacePulse: Combining Parameterized Pulses and Contextual Subspace for More Practical VQE</b>. <br>
-<b>Zhiding Liang</b>, Zhixin Song, Jinglei Cheng, Hang Ren, Tianyi Hao, Rui Yang, Yiyu Shi, Tongyang Li. <i>**in Submission**</i>.<br>[[arXiv]](https://arxiv.org/pdf/2311.17423.pdf)
-
 
 * <b>VIOLET: Visual Analytics for Explainable Quantum Neural Networks</b>. <br>
 Shaolun Ruan, <b>Zhiding Liang</b>, Qiang Guan, Paul Griffin, Xiaolin Wen, Yanna Lin, Yong Wang. <i>Accepted to  IEEE Transactions on Visualization and Computer Graphics(**TVCG**)</i>.<br>[[arXiv]](https://arxiv.org/pdf/2312.15276.pdf)
