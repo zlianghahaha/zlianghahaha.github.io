@@ -17,9 +17,9 @@ I am currently a Ph.D. student in the [Department of Computer Science and Engine
 I received my Bachelor's degree from [University of Wisconsin, Madison](https://www.wisc.edu/) in Madison, WI, US, where I worked with 
 [Professor Juda Shohet](https://directory.engr.wisc.edu/ece/Faculty/Shohet_J-/) in the Plasma Processing & Technology lab at UW-Madison.
 
-Please check my [CV](CV_ZhidingLiang.pdf) for more details.
+<!-- Please check my [CV](CV_ZhidingLiang.pdf) for more details. -->
 
-<font color="red">I’m on the academic job market this year, please reach out with any opportunities!</font>
+<font color="red">I will join Rensselaer Polytechnic Institute (RPI) as a Tenure Track Assistant Professor! I have fully funded PhD openings in my group for Spring/Fall 2025, if you are admitted to RPI at Fall 2024 and still in rotation, you can also feel free to contact with me!</font>
 
 # Research
 My research interests recently focus on quantum computing, including:
