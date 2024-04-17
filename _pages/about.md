@@ -19,12 +19,13 @@ I received my Bachelor's degree from [University of Wisconsin, Madison](https://
 
 <!-- Please check my [CV](CV_ZhidingLiang.pdf) for more details. -->
 
-<font color="red">I will join Rensselaer Polytechnic Institute (RPI) as a Tenure Track Assistant Professor! I have fully funded PhD openings in my group for Spring/Fall 2025, if you are admitted to RPI at Fall 2024 and still in rotation, you can also feel free to contact with me!</font>
+<font color="red">I will join Rensselaer Polytechnic Institute (RPI) at 2024 Fall as a Tenure Track Assistant Professor! I have fully funded PhD openings in my group for Spring/Fall 2025, if you are admitted to RPI at Fall 2024 and still in rotation, you can also feel free to contact with me!</font>
 
 # Research
 My research interests recently focus on quantum computing, including:
-- **Hardware Softerware Co-design for Quantum Computing From Gate level to Pulse level**
-- **Efficient Quantum Error Mitigation and Benchmarking at Pulse level**
+- **Hardware Softerware Co-design for Quantum Computing**
+- **FT Algorithms, NISQ Algorithms, and Quantum Error Correction Code**
+- **Quantum Machine Learning, Quantum Optimization, Quantum Federated Learning, etc., for Real World Applications**
 
 I am also interested in outreach and education in software and system level quantum computing. I am organizing the [Quantum Computer System Lecture Series (QuCS)](https://sites.nd.edu/quantum/). Additionally, I am leading the organization of the [2023 ACM/IEEE Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/index.html) at the International Conference on Computer-Aided Design ([ICCAD 2023](https://iccad.com/index.php/)).
 
