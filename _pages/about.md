@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.nd.edu/), 
+I am currently a Ph.D. candidate in the [Department of Computer Science and Engineering](https://cse.nd.edu/), 
 [University of Notre Dame](https://www.nd.edu/), under the supervision of 
 [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at the University of Notre Dame. I also work closely with 
 [Prof. Yongshan Ding](https://www.yongshanding.com/) at Yale University, 
@@ -19,7 +19,7 @@ I received my Bachelor's degree from [University of Wisconsin, Madison](https://
 
 <!-- Please check my [CV](CV_ZhidingLiang.pdf) for more details. -->
 
-<font color="red">I will join Rensselaer Polytechnic Institute (RPI) at 2024 Fall as a Tenure Track Assistant Professor! I have fully funded PhD openings in my group for Spring/Fall 2025, if you are admitted to RPI at Fall 2024 and still in rotation, you can also feel free to contact with me!</font>
+<font color="red">I will join Rensselaer Polytechnic Institute (RPI) at 2024 Fall as a Tenure Track Assistant Professor and my lab is on [Visit My Other Site](lianglab.html)! I have fully funded PhD openings in my group for Spring/Fall 2025, if you are admitted to RPI at Fall 2024 and still in rotation, you can also feel free to contact with me!</font>
 
 # Research
 My research interests recently focus on quantum computing, including:
