@@ -42,6 +42,7 @@ I am also interested in outreach and education in software and system level quan
 * **Silan Microelectronics**. Back-end Development Intern. 2018 Summer
 
 # Honors and Awards
+* Outstanding Graduate RA Award <br> University of Notre Dame.
 * Edison Innovation Fellowship <br> University of Notre Dame.
 * 2023 ICCAD Student Scholar Program Grant. <br> ICCAD. 2023
 * 2023 ISCA Student Travel Grant. <br> ISCA. 2023
