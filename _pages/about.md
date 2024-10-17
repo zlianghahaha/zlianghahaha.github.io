@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate in the [Department of Computer Science and Engineering](https://cse.nd.edu/), 
+
+Please move to [LIANG LAB](https://www.innovationadvancedlab.com/) for further updates.
+
+<!-- I am currently a Ph.D. candidate in the [Department of Computer Science and Engineering](https://cse.nd.edu/), 
 [University of Notre Dame](https://www.nd.edu/), under the supervision of 
 [Prof. Yiyu Shi](https://engineering.nd.edu/faculty/yiyu-shi/) at the University of Notre Dame. I also work closely with 
 [Prof. Yongshan Ding](https://www.yongshanding.com/) at Yale University, 
@@ -20,9 +23,9 @@ I received my Bachelor's degree from [University of Wisconsin, Madison](https://
 I will lead the [LIANG LAB](https://www.innovationadvancedlab.com/) at Rensselaer Polytechnic Institute (RPI).
 <!-- Please check my [CV](CV_ZhidingLiang.pdf) for more details. -->
 
-<font color="red">I will join Rensselaer Polytechnic Institute (RPI) at 2024 Fall as a Tenure Track Assistant Professor! I have fully funded PhD openings in my group for Spring/Fall 2025, if you are admitted to RPI at Fall 2024 and still in rotation, you can also feel free to contact with me!</font>
+<!-- <font color="red">I will join Rensselaer Polytechnic Institute (RPI) at 2024 Fall as a Tenure Track Assistant Professor! I have fully funded PhD openings in my group for Spring/Fall 2025, if you are admitted to RPI at Fall 2024 and still in rotation, you can also feel free to contact with me!</font> -->
 
-# Research
+<!-- # Research
 My research interests recently focus on quantum computing, including:
 - **Hardware Softerware Co-design for Quantum Computing**
 - **FT Algorithms, NISQ Algorithms, and Quantum Error Correction Code**
@@ -94,10 +97,10 @@ function toggleNews() {
         btn.textContent = 'Read More';
     }
 }
-</script>
+</script> -->
 
 
-
+<!-- 
 # Publications
 
 * **Zhiding Liang**, Zhixin Song, Jinglei Cheng, Hang Ren, Tianyi Hao, Rui Yang, Yiyu Shi and Tongyang Li, "SpacePulse: Combining Parameterized Pulses and Contextual Subspace for More Practical VQE". Accepted to the 61th IEEE/ACM Design Automation Conference([DAC 2024](https://arxiv.org/pdf/2311.17423.pdf)).
@@ -115,9 +118,9 @@ function toggleNews() {
 * Hanrui Wang, Junyu Liu, Jinglei Cheng, **Zhiding Liang**, Jiaqi Gu, Zirui Li, Yongshan Ding, Weiwen Jiang, Yiyu Shi, Xuehai Qian, David Z. Pan, Frederic T. Chong, Song Han. “Graph Transformer for Quantum Circuit Reliability Prediction". Accepted to the Proceedings of the 41th International Conference On
 Computer-Aided Design ([ICCAD 2022](https://qmlsys.mit.edu/wp-content/uploads/2022/09/ICCAD2022_Transformer.pdf)).
 * Zhepeng Wang, **Zhiding Liang**, Shanglin Zhou, Caiwen Ding, Yiyu Shi, Weiwen Jiang, “Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs". Published in the Proceedings of the 40th International Conference On
-Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)).
+Computer-Aided Design ([ICCAD 2021](https://iccad.com/index.php/)). -->
 
-# Selected Talks
+<!-- # Selected Talks
 
 * Parameterized Quantum Pulses for Variational Quantum Algorithms. Eitech, 2023
 * Parameterized Quantum Pulses for Variational Quantum Algorithms. University of Michigan-Shanghai Jiao Tong University Joint Institute, 2023
@@ -144,8 +147,8 @@ Computer-Aided Design (ICCAD), 2021
 <!---Experience--->
 
 
-# Collaborators
+<!-- # Collaborators
  <img src="../images/mit.png" height="200" width="150"><img src="../images/usc.png" height="200" width="150"><img src="../images/yale.png" height="200" width="150"><img src="../images/gmu.png" height="75" width="150"><img src="../images/UCB.png" height="150" width="150">
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8KGfUL_pkV9DNQfD3UyZcaQHl9ii8VeCMgJUzJtERlg&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8KGfUL_pkV9DNQfD3UyZcaQHl9ii8VeCMgJUzJtERlg&cl=ffffff&w=a"></script> --> --> -->
